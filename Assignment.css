@@ -1,0 +1,91 @@
+#fh {
+  color: #e70e02;
+  text-align: center;
+  /* background-color: beige; */
+  border: 0.4cm solid #e89005;
+  border-style: ridge;
+  border-radius: 0.3cm;
+  font-style: italic;
+  font-size: larger;
+}
+article {
+  font-size: large;
+  padding: 6px;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.he {
+  text-align: center;
+  text-decoration: underline;
+  background-color: #f42b03;
+}
+/* .ons {
+  padding: 80px;
+}
+#i2 {
+  float: left;
+  padding: 80px;
+} */
+.ons {
+  float: left;
+  padding: 60px;
+  width: 20%;
+}
+.one {
+  width: 13%;
+  float: left;
+  padding: 25px;
+}
+.two {
+  width: 20%;
+  padding: 50px;
+  padding-top: 50px;
+  float: left;
+}
+.three {
+  width: 11%;
+  float: left;
+}
+.tab {
+  text-align: center;
+}
+.tab h3 {
+  background-color: #3a7d44;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 50%;
+  border: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+th,
+td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+ul {
+  list-style: disc;
+}
+form label {
+  display: inline-block;
+  padding: 15px;
+}
+footer {
+  text-align: center;
+  background-color: #3a7d44;
+}
+form {
+  box-sizing: border-box;
+  border-color: aquamarine;
+  border: 1px solid #ccc;
+}
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 1px;
+}
